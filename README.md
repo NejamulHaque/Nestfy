@@ -21,9 +21,7 @@
 
 | Dashboard | Transactions | Analytics |
 |-----------|-------------|-----------|
-| ![Dashboard](https://via.placeholder.com/280x180/0a0a0f/00d4aa?text=Dashboard) | ![Transactions](https://via.placeholder.com/280x180/0a0a0f/7c6aff?text=Transactions) | ![Analytics](https://via.placeholder.com/280x180/0a0a0f/00d4aa?text=Analytics) |
-
-> 💡 Replace the placeholder images above with real screenshots of your app.
+| ![Dashboard](Dashboard.jpg?text=Dashboard) | ![Transactions](Transactions.jpg?text=Transactions) | ![Analytics](Analytics.jpg?text=Analytics) |
 
 ---
 
